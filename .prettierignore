@@ -1,0 +1,7 @@
+buildspec.yml
+Dockerfile
+package*.json
+dist
+*.yml
+*.yaml
+*.gql
